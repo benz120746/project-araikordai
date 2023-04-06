@@ -1,0 +1,112 @@
+
+body{
+   font-family: 'Kodchasan', sans-serif;
+  }   
+p {
+    color: white;
+  font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff69b4;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #F9F18A;
+}
+
+.active {
+    background-color: #2f847c ;
+}
+
+pp{
+  color: #FFF49A;
+  font-size: 23px;
+}
+p1{
+color: white;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 20px;
+}
+p2{
+color: #F37FFF;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 23px;
+}
+p3{
+color: #79FF95;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 23px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: #FEDAFF;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: #3278FA;
+  background-color: #F9F18A;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: #0057F9;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+r{
+ text-decoration: none;
+  font-size: 17px;
+  color: #FF3AF3;
+}
+gg{
+color: #6000FD;
+text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 25px;
+}
+su{
+ text-decoration: none;
+  font-size: 17px;
+  color: #18F866;
+}
